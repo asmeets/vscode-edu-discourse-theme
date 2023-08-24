@@ -31,8 +31,8 @@
       "love": "fa6c8d"
     },
     "VS Code for Education - Light Modern": {
-      "primary": "f2f2f2",
-      "secondary": "1e1e1f",
+      "primary": "000000",
+      "secondary": "ffffff",
       "tertiary": "007acc",
       "quaternary": "8be9fd",
       "header_background": "ffffff",
