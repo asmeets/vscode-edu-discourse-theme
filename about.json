@@ -2,9 +2,9 @@
   "name": "VS Code for Education Community Theme",
   "component": false,
   "license_url": null,
-  "about_url": null,
-  "authors": null,
-  "theme_version": null,
+  "about_url": "https://vscodeedu.com",
+  "authors": "Adam Smeets",
+  "theme_version": "0.1",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
@@ -16,9 +16,23 @@
     "ssp-semibold": "assets/ssp-semibold.ttf"
   },
   "color_schemes": {
-    "VS Code for Education - Dark": {
-      "primary": "f2f2f2",
-      "secondary": "1e1e1f",
+    "VS Code for Education - Dark Modern": {
+      "primary": "ffffff",
+      "secondary": "2b2b2b",
+      "tertiary": "0078d4",
+      "quaternary": "229fff",
+      "header_background": "181818",
+      "header_primary": "cccccc",
+      "highlight": "ffda61",
+      "selected": "2c2c2c",
+      "hover": "474747",
+      "danger": "f85149",
+      "success": "1ca551",
+      "love": "fa6c8d"
+    },
+    "VS Code for Education - Light Modern": {
+      "primary": "000000",
+      "secondary": "ffffff",
       "tertiary": "007acc",
       "quaternary": "8be9fd",
       "header_background": "ffffff",
