@@ -4,17 +4,9 @@
   "license_url": null,
   "about_url": "https://vscodeedu.com",
   "authors": "Adam Smeets",
-  "theme_version": "0.1",
+  "theme_version": "0.2",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
-  "assets": {
-    "scp-regular": "assets/scp-regular.ttf",
-    "ssp-black": "assets/ssp-black.ttf",
-    "ssp-bold": "assets/ssp-bold.ttf",
-    "ssp-light": "assets/ssp-light.ttf",
-    "ssp-regular": "assets/ssp-regular.ttf",
-    "ssp-semibold": "assets/ssp-semibold.ttf"
-  },
   "color_schemes": {
     "VS Code for Education - Dark Modern": {
       "primary": "ffffff",
