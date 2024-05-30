@@ -1,5 +1,5 @@
 $dark-lite-vs: dark-light-choose(#62abf5, #FFFFFF);
 
 :root {
-  --my-color: #{$dark-lite-vs};
+  --dark-lite-vs: #{$dark-lite-vs};
 }
