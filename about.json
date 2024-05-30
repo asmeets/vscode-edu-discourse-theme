@@ -18,11 +18,11 @@
   "color_schemes": {
     "VS Code for Education - Dark Modern": {
       "primary": "ffffff",
-      "secondary": "2b2b2b",
+      "secondary": "1e1e1e",
       "tertiary": "0078d4",
       "quaternary": "229fff",
-      "header_background": "181818",
-      "header_primary": "cccccc",
+      "header_background": "1e1e1e",
+      "header_primary": "ffffff",
       "highlight": "ffda61",
       "selected": "2c2c2c",
       "hover": "474747",
@@ -45,7 +45,6 @@
       "love": "ff79c6"
     }
   },
-  "modifiers": {
-  },
+  "modifiers": {},
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
